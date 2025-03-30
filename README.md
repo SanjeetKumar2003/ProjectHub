@@ -1,5 +1,14 @@
 # 🚀 Project Hub | A Platform for College Students to Share Projects
 
+## Problem Statement
+Challenges faced by students in showcasing projects, finding collaborators, and gaining industry exposure
+
+## Team Members
+Vutukuri Uma Pranitha
+P.Sahithya
+Sanjeet Kumar
+Sadhana Shri R
+
 ## 🌐 Live Demo
 
 🔗 [View Project Hub Live](https://project-hub-rho.vercel.app/)
@@ -11,7 +20,8 @@ https://drive.google.com/file/d/1AftvfxoVK3___N3MNsCenA8TDMRlf9nQ/view?usp=shari
 ## 📸 Screenshot
 <img width="959" height="500" alt="image" src="https://github.com/user-attachments/assets/b6210fc5-a986-44e5-9ff0-77620895cb53" />
 
-
+## Solution Overview
+Project Hub aims to solve this problem by providing an interactive platform where students can easily upload their projects, engage in discussions, receive peer feedback, and collaborate with others. By bridging the gap between academic projects and real-world recognition, Project Hub empowers students to refine their skills, gain visibility, and explore new learning opportunities.
 
 ## 📖 About
 
